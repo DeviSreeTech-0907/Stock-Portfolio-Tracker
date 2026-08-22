@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+-----------------------
+Stock: AAPL
+Quantity: 5
+Price per share: $180
+Total Investment: $900
